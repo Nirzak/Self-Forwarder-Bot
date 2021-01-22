@@ -3,7 +3,7 @@ A simple telegram bot which will reply or forward file with your own message so 
 
 #How to Install and run this bot
 
--At first create your bot from telegram bot father here t.me/botfather and get your bot token.
+-At first create your bot from telegram bot father here https://t.me/botfather and get your bot token.
 
 **Clone and Install**
 ```
