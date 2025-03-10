@@ -14,13 +14,13 @@ pip install .
 
 **Config the bot:**
 - open `selfforwarder/config/config.yaml`
-- Give your bot token on bot_token section and user id on admins section.
+- Give your bot token on bot\_token section and user id on admins section.
 - If you don't know how to get your telegram numeric user id then go here https://t.me/userinfobot
 - After all editings save and close the the config.yaml file.
 
 **Run the bot:**
 ```
-- Type selfforwarder on cmd to start the bot.
+- selfforwarder <path_of_your_config_file>
 ```
 
 #How to Use It

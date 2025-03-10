@@ -12,7 +12,7 @@ setuptools.setup(
     author_email="nirzashzakilim@gmail.com",
 
     install_requires=[
-        "python-telegram-bot",
+        "python-telegram-bot==13.14",
         "Pyyaml"
     ],
 
